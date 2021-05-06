@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/react-payments/static/js/main.22d80288.chunk.js",
-    "main.js.map": "/react-payments/static/js/main.22d80288.chunk.js.map",
+    "main.js": "/react-payments/static/js/main.10ec99ba.chunk.js",
+    "main.js.map": "/react-payments/static/js/main.10ec99ba.chunk.js.map",
     "runtime-main.js": "/react-payments/static/js/runtime-main.88f01844.js",
     "runtime-main.js.map": "/react-payments/static/js/runtime-main.88f01844.js.map",
-    "static/js/2.ef6ea8cd.chunk.js": "/react-payments/static/js/2.ef6ea8cd.chunk.js",
-    "static/js/2.ef6ea8cd.chunk.js.map": "/react-payments/static/js/2.ef6ea8cd.chunk.js.map",
+    "static/js/2.6f984ffb.chunk.js": "/react-payments/static/js/2.6f984ffb.chunk.js",
+    "static/js/2.6f984ffb.chunk.js.map": "/react-payments/static/js/2.6f984ffb.chunk.js.map",
     "index.html": "/react-payments/index.html",
-    "static/js/2.ef6ea8cd.chunk.js.LICENSE.txt": "/react-payments/static/js/2.ef6ea8cd.chunk.js.LICENSE.txt",
+    "static/js/2.6f984ffb.chunk.js.LICENSE.txt": "/react-payments/static/js/2.6f984ffb.chunk.js.LICENSE.txt",
     "static/media/BC.fe1c861b.PNG": "/react-payments/static/media/BC.fe1c861b.PNG",
     "static/media/loca.97e4bb3d.png": "/react-payments/static/media/loca.97e4bb3d.png",
     "static/media/pullup.befeeb55.gif": "/react-payments/static/media/pullup.befeeb55.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.88f01844.js",
-    "static/js/2.ef6ea8cd.chunk.js",
-    "static/js/main.22d80288.chunk.js"
+    "static/js/2.6f984ffb.chunk.js",
+    "static/js/main.10ec99ba.chunk.js"
   ]
 }
